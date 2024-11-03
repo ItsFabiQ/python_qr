@@ -25,7 +25,7 @@ This Python script generates a QR code from a user-provided link and saves it as
 
 1. Run the script:
    ```bash
-   python your_script_name.py
+   python qr.py
    ```
 2. Enter the link when prompted.
 3. The script will generate a QR code and save it as `qr.png` in the current directory.
